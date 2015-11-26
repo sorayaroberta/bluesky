@@ -19,6 +19,8 @@
         margin-left: 20%; 
         background-size: 50%;
         background-color:#E6E6FA;
+        -moz-border-radius:7px;
+        -webkit-border-radius:7px;
         border-radius:20px;
         padding: 36px;
       }
