@@ -27,6 +27,7 @@
 	<body>
     <div class="container">
     <div id="cadastro" width="100px" heigth="500px">
+    </div>
 <form action="cadastrarUsuario.php" method="POST" class="">
               <div class="form-group">
                 Email<br>

@@ -259,18 +259,22 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+
 }
 
 .download-section {
     width: 100%;
-    padding: 50px 0;
+    height: 50%;
+    padding: 50%;
     color: #fff;
-    background: url(../img/ceu.jpg) no-repeat center center scroll;
+    padding-top: 10%;
+    /*
+    background: url(../img/ceu.jpg) no-repeat center center scroll; 
     background-color: #6495ED;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover; */
 }
 
 #map {

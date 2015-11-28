@@ -1,9 +1,13 @@
-quando clicar no botão do avião vai direcionar para baixo(bluesky valores) para a caixa que deve conter o venda de passagens.
+quando clicar no botão do avião vai direcionar para baixo(bluesky valores) para a caixa que deve conter o venda de passagens. 
 
 No menu superior deve conter apenas cadastre-se, quando clicar em cadastre-se deve redirencionar para uma pagina que contem os dados do cliente.
+
+No menu superior deve ter ajuda, um vídeo que mostre a empresa e os funcionários felizes.
 
 Descubra o seu mundo deve conter imagens de lugares ofertados pela empresa passando, quando clicar em uma dessas imagens redirenciona para uma outra página que contem informações desse lugar. Deve ter também umas minibolinhas embaixo dessas imagens que simbolizam passar para a próxima imagem. 
 
 Em contacto deve conter dados da empresa, como redes sociais, prêmios, destaques.
 
 nas outras pensei em colocar algo relacionado as formas de pagamentos.
+
+

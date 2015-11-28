@@ -78,7 +78,7 @@
                         <h1 class="brand-heading">Bluesky</h1>
                         <p class="intro-text">Levando você até o seu sonho.</p>
                         <a href="index.php?#sonho" class="btn btn-circle page-scroll">
-                        <img src="img/plane.png" class="aviao fa fa-angle-double-down animated"> 
+                        <img src="img/plane.png" class="aviao ffa fa-angle-double-down animated"> 
                         </a>
                     </div>
                 </div>
@@ -97,21 +97,54 @@
         </div>
     </section>
     <!-- Download Section -->
-    <section id="Lugares" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
+    
+    
+
+  <!--  <section id="mundo" class="content-section text-center"> 
+        <p> 
+        <div class="download-section"> -->
+            <div class="container"> 
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2> Descubra </br>
-                            o     </br>
-                          (seu)   </br>
-                          mundo   </h2>
-                    <p>Veja dicas de lugares,</br> 
-                    experiências de nossos clientes</p>
-                    <!--<a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a> -->
-                </div>
+ <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img/rio.jpg" alt="maravilha">
+    </div>
+
+    <div class="item">
+      <img src="img/recife1.jpg" alt="cida">
+    </div>
+
+    <div class="item">
+      <img src="img/recife.jpg" alt="cidade">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+ 
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+                    <!--<a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a> 
+                </div> -->
             </div>
         </div>
-    </section>
+ <!--   </section> -->
 
     <!-- Contact Section -->
     <section id="contact" style = "background: #4682B4" class="container content-section text-center">

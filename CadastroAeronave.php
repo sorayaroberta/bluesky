@@ -13,7 +13,6 @@
 	<body>
 <form action="CadastrarAeronave.php" method="POST" class="">
 			<div class="form-group">
-                <span class="hidden-xs hidden-sm"></span>
                 Modelo da aeronave<br>
                 <input type="text" name="nome_aeronave" class="form-control">
               </div>
