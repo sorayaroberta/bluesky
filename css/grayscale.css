@@ -262,6 +262,12 @@ a:focus {
 
 }
 
+.carousel-inerr { 
+    width: 500px;
+    height: 200px;
+
+}
+
 .download-section {
     width: 100%;
     height: 50%;
